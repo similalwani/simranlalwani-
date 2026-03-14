@@ -8,6 +8,8 @@ I've shipped ML at every scale — from a seven-person team at a pre-playbook st
 
 I don't just train models. I collect the data, design the pipeline, solve the physics, containerize the system, and put it in production.
 
+My superpower: I thrive under pressure & I believe everything is possible. 
+
 ---
 
 ### What I Work With
