@@ -50,6 +50,6 @@ Implemented DANN and MMD models for robust generalization across unseen clinical
 MS in Data Science, Rochester Institute of Technology (3.8 GPA)  
 Based in San Francisco  
 
-I'm drawn to work where technical depth meets real-world urgency — public safety, autonomous systems, perception at the edge. I thrive in early-stage environments where the blueprints haven't been drawn yet.
+I'm drawn to work where technical depth meets real-world urgency — autonomous systems, perception at the edge, products that ship and scale. I build end-to-end, making decisions across the stack: research, infrastructure, product, deployment. I hold a high bar for quality, and the gap between a model that works on a benchmark and one that works in the field is everything.
 
 [LinkedIn](https://linkedin.com/in/similalwani) · [Email](mailto:similalwani13@gmail.com)
