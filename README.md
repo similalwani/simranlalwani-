@@ -37,7 +37,7 @@ My superpower: I thrive under pressure & I believe everything is possible.
 
 **Graduate Research Assistant** — Rochester Institute of Technology  
 *EXAMM: Evolutionary eXploration of Augmenting Memory Models* under Prof. Travis Desell  
-Evolved RNN architectures for sequential drone telemetry data in collaboration with Airtonomy.
+Evolved RNN architectures for sequential drone telemetry data.
 
 **Capstone Research** — Rochester Institute of Technology  
 *Domain Generalization for Localizing Ventricular Activations* with Prof. Linwei Wang  
