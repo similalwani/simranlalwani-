@@ -14,7 +14,7 @@ My superpower: I thrive under pressure & I believe everything is possible.
 
 ### What I Work With
 
-**Core:** Python · PyTorch · TensorFlow · Detectron2 · YOLOv5 · OpenCV · scikit-learn  
+**Core:** Python · C++ · PyTorch · TensorFlow · Detectron2 · YOLOv5 · OpenCV · scikit-learn  
 **Infrastructure:** Docker · CI/CD · MLflow · Airflow · FastAPI · Edge/IoT Deployment  
 **Research:** Domain Generalization (DANN, MMD) · Neuroevolution (EXAMM) · Self-Supervised Depth Estimation · Panoptic Segmentation  
 **Full-Stack:** React · Node.js · SQL · MongoDB · Streamlit · Tableau
