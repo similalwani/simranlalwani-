@@ -42,7 +42,7 @@ battery, GPS) — neuroevolution searches for compact RNN architectures that can
 predict anomalies/failures *on-device* without cloud connectivity.
 - Evolved RNN architectures for sequential drone telemetry data
 - Implemented EXAMM architecture search on NGAFID flight data
-- Built fitness evaluation pipelines for edge-deployable models
+- Built fitness evaluation pipeline and hyperparamater tuning for EXAMM's architecture search
 
 **Capstone Research** — Rochester Institute of Technology  
 *Domain Generalization for Localizing Ventricular Activations* with Prof. Linwei Wang  
