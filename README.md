@@ -27,7 +27,7 @@ My superpower: I thrive under pressure & I believe everything is possible.
 |---|---|
 | **MGNet** | Monocular geometric scene understanding framework — self-supervised depth estimation + panoptic segmentation + Faster R-CNN object detection for RGB and 16-bit thermal images |
 | **Domain Generalization for Cardiac Activation Localization** | Year-long capstone research implementing DANN and MMD to localize ventricular activation origins from ECG data across unseen patient domains |
-| **EXAMM Research** | Contributed to evolutionary exploration of augmenting memory models — neuroevolution of RNN architectures on drone flight data (Airtonomy collaboration) |
+| **EXAMM Research** | Contributed to evolutionary exploration of augmenting memory models — neuroevolution of RNN architectures on drone flight data, targeting edge deployment constraints |
 | **Edge AI Recognition Systems** | Designed data collection pipelines and optimized edge device inference for AI-powered recognition in live retail environments |
 | **Thermal-RGB Perception Pipeline** | Built segmentation, label quality assessment, parallax correction, and super-resolution pipelines for autonomous imaging across sensor modalities |
 
