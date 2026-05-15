@@ -1,6 +1,6 @@
 # Simran Lalwani
 
-**ML/CV Engineer · Systems Builder · Startup Operator**
+**ML/CV Engineer · Systems Builder ·**
 
 I build intelligent systems that work where it matters — not on benchmarks, but in uncontrolled environments, at the edge, under constraint. My work spans the full arc from research to production: neuroevolution on drone telemetry, domain generalization on clinical data, multimodal perception pipelines fusing thermal, LiDAR, and RGB in the field, and edge-deployed AI recognition systems in live commercial settings.
 
